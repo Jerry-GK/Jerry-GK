@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-ZJU CS undergraduate student.
+Zhejiang University CS master student.
